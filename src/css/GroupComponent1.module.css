@@ -1,0 +1,85 @@
+.rectangleDiv,
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  width: 228px;
+  height: 190px;
+}
+.rectangleDiv {
+  top: 79px;
+  left: 30px;
+  border-radius: 4.69px;
+  background-color: #232323;
+  width: 168.45px;
+  height: 37.5px;
+}
+.stateDiv {
+  position: absolute;
+  top: 87px;
+  left: 42px;
+  display: inline-block;
+  width: 144px;
+  height: 22px;
+}
+.polygonIcon,
+.rectangleDiv1 {
+  position: absolute;
+  top: 94.05px;
+  left: 174.82px;
+  width: 10.56px;
+  height: 9.14px;
+}
+.rectangleDiv1 {
+  top: 129px;
+  left: 30px;
+  border-radius: 4.69px;
+  background-color: #232323;
+  width: 168.45px;
+  height: 37.5px;
+}
+.cityDiv {
+  position: absolute;
+  top: 137px;
+  left: 42px;
+  display: inline-block;
+  width: 144px;
+  height: 22px;
+}
+.filtersDiv,
+.polygonIcon1 {
+  position: absolute;
+  top: 144.05px;
+  left: 174.82px;
+  width: 10.56px;
+  height: 9.14px;
+}
+.filtersDiv {
+  height: 12.63%;
+  width: 21.49%;
+  top: 12.11%;
+  right: 60.09%;
+  bottom: 75.26%;
+  left: 18.42%;
+  font-size: 20px;
+  font-weight: 300;
+  color: #a5a5a5;
+  display: inline-block;
+}
+.vectorIcon {
+  position: absolute;
+  top: 58.5px;
+  left: 34.5px;
+  width: 159px;
+  height: 1px;
+}
+.groupDiv {
+  position: relative;
+  width: 100%;
+  height: 190px;
+  text-align: left;
+  font-size: 17px;
+  color: #fff;
+  font-family: SF Pro Display;
+}
